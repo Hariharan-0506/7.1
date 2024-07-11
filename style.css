@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.content{
+    background-color: white;
+    padding: 50px;
+
+}
+.container{
+    border: 2px solid green;
+    padding: 40px;
+    background-color: lightgreen;
+}
+button{
+    border-radius: 10px;
+}
+li{
+    list-style: none;
+}
